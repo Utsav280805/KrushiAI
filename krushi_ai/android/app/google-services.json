@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "799480392221",
+    "project_id": "krushiai-e6a17",
+    "storage_bucket": "krushiai-e6a17.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799480392221:android:ec24b9331c21d20fa434f4",
+        "android_client_info": {
+          "package_name": "com.example.krushi_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799480392221-bo2e8jkcrbmvgeaq18qvj53vs5la6s6l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.krushi_ai",
+            "certificate_hash": "bd1477c2a57b057ce00ff3c58da38567cd5df0bb"
+          }
+        },
+        {
+          "client_id": "799480392221-mjd5iaonvh0sgsv4hgq5aqsg5ghvn73t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvPM_rsopGDREEYbfwtANUUHB4aOkAXgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799480392221-mjd5iaonvh0sgsv4hgq5aqsg5ghvn73t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
